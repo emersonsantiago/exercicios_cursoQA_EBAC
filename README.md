@@ -1,1 +1,1 @@
-# exerc-cios_cursoQA_EBAC
+# exerccios_cursoQA_EBAC

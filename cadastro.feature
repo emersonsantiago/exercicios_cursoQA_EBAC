@@ -18,7 +18,7 @@ Então o sistema deve permitir o cadastro
 
 Esquema do Cenário: 2 - Cadastro sem preenchimento dos dados obrigatórios
 Quando eu fizer o cadastro sem preencher <nome>, <sobrenome>, <pais>, <endereco>, <cidade>, <CEP>, <telefone> e <e-mail>
-Então o sistema deve permitir o cadastro
+Então o sistema não deve permitir o cadastro
 
 
 Esquema do Cenário: 3 - Preenchimento de e-mail em formato válido
